@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#custom-navlink{
+    font-family: bree serif;
+    font-size: 18px;
+    color:rgb(39, 28, 6);
+}
+.logo{
+    width:150px;
+    height:70px ;
+}
+.bg-section{
+    background-image:linear-gradient(to right,rgb(41, 38, 38),rgb(245, 243, 243,0)),url(boy-1822565.jpg);
+    background-size:cover;
+    height:800px;
+    background-position: center;
+    
+}
+.first-line{
+    font-family:Roboto;
+    font-size: 15px;
+    color: rgb(253, 252, 249);
+    font-weight: 700;
+    
+
+}
+.school-name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color:rgb(237, 171, 18);
+    font-weight: 700;
+}
+.class-from{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(232, 232, 232);
+    font-weight: bold;
+    font-style: italic;
+}
+.high{
+    color:rgb(237, 171, 18);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.button-ad{
+    border-radius:10px;
+    background-color:transparent;
+    color:white;
+    font-family: Poppins;
+    font-size:20px;
+    border:2px solid rgb(237, 171, 18);
+    height:60px;
+    width:200px;
+}
+.about-us-section{
+    background-color: rgb(201, 235, 235);
+}
+.about-h1{
+    font-family:"Roboto";
+    font-size: 50px;
+    color:rgb(18, 102, 237);
+    font-weight: bold;
+    font-stretch: expanded;
+}
+.content-abt{
+    font-family:Roboto;
+    font-size:18px;
+    color: black;
+    
+}
+.High{
+    color:rgb(12, 12, 11);
+    font-family:Roboto;
+   font-style: italic;
+    font-weight: bolder;
+}
+.principal-img{
+    border-radius: 10px;
+    width:320px;
+    height:300px;
+
+}
+.p-name{
+    color:rgb(12, 12, 11);
+    font-size: 20px;
+    font-family:Poppins;
+    font-weight: bolder;
+    text-align: center;
+}
+.Quote{
+    color:rgb(127, 14, 241);
+    font-size: 20px;
+    font-family:"Poppins";
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+.card{
+    border-radius:10px;
+    background-color: rgb(205, 238, 238);
+    padding:10px;
+}
+.school-img{
+    width:auto;
+    height:300px;
+    border-radius:10px;
+}
+.card-h1{
+    color:rgb(12, 12, 11);
+    font-size: 20px;
+    font-family:Poppins;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 10px;
+}
+card-content{
+    font-family:Poppins;
+    font-size:18px;
+    color: black;
+    
+}
+.school-life-section{
+    background-image:linear-gradient(to right,rgb(48, 43, 43),rgb(255, 255, 255,0)),url(WhatsApp\ Image\ 2024-02-18\ at\ 09.07.26_c8b4d4a2.jpg);
+
+}
+.about-h2 {
+    font-family:"Roboto";
+    font-size: 50px;
+    color:rgb(237, 239, 243);
+    font-weight: bold;
+    font-stretch: expanded;
+}
+.card-h2{
+    color:rgb(12, 12, 11);
+    font-size: 30px;
+    font-family:Poppins;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+.card-content2{
+    font-family:Poppins;
+    font-size:20px;
+    color: black;
+    
+}
+.staff-img{
+    border-radius: 10px;
+    width: 100%;
+    height:300px;
+}
+.Career-section{
+    background-color: bisque;
+}
+.tata-img{
+    border-radius: 10px;
+   width:100%;
+   height: 200px;
+}
+.contact-section{
+background-color:rgb(37, 124, 246);
+}
+.icon{
+    background-color: ;
+    border-radius: 60px;
+    font-size: 30px;
+}
+.contact{
+    font-family:Poppins;
+    font-size:20px;
+    color: black;
+}
